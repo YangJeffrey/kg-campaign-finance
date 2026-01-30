@@ -1,0 +1,6 @@
+.env*
+.DS_Store
+itcont.txt
+itcont.csv
+__pycache__
+venv
